@@ -58,4 +58,4 @@ Most of what I build lives in private client repositories, so the public repos h
 
 Before engineering I was CTO and Operations Manager of a Dubai e-commerce platform, scaling it from 50 to 1,200 vendors across five GCC markets. I read the business problem before the tech spec.
 
-**Working on something?** [taharafiq1@icloud.com](mailto:taharafiq1@icloud.com) · Tell me what you are building or what is broken, and I will tell you how I would architect it before you spend anything.
+**Working on something?** [hello@taharafiq.com](mailto:hello@taharafiq.com) · Tell me what you are building or what is broken, and I will tell you how I would architect it before you spend anything.
